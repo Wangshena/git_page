@@ -5,6 +5,11 @@ import router from './router';
 import ElementUI from 'element-ui';
 import 'element-ui/lib/theme-chalk/index.css';
 import App from './App';
+import Vant from 'vant';
+import 'vant/lib/index.css';
+
+//vant引入
+Vue.use(Vant);
 
 // 导入全局样式
 import './assets/css/globel.css'

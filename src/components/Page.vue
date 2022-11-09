@@ -123,7 +123,7 @@ export default {
 }
 
 .el-menu {
-  width: 700px;
+  width: 800px;
   height: 60px;
   margin: auto;
 }
@@ -145,7 +145,7 @@ export default {
 .logo img {
   float: left;
   width: 200px;
-  margin-left: 250px;
+  margin-left: 180px;
 }
 
 .ct {
